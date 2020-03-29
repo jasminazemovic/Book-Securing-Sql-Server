@@ -1,2 +1,3 @@
-# securing-sqlserver2012
-Final drafts of training materials "Securing SQL Server 2012 Environment"
+# Securing SQL Server - Book
+Final drafts of training materials "Securing SQL Server Environment"
+PDF Version
